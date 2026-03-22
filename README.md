@@ -1,29 +1,25 @@
-# dominick-marketing-systems
-AI-powered marketing systems for paid ads, funnels, and CRM automation — helping real estate and entertainment brands scale revenue.
-# Dominick Gabayan – Digital Marketing Systems Specialist
+# 🚀 Dominick Gabayan – Digital Marketing Systems Specialist
 
-I help businesses generate leads, increase conversions, and scale revenue through paid ads, funnels, and CRM automation.
-
-With 5+ years in digital marketing and experience supporting international clients, I specialize in building structured marketing systems that drive measurable results.
+I build AI-powered marketing systems that help businesses generate leads, increase conversions, and scale revenue.
 
 ---
 
-## 🎯 Core Expertise
+## 🎯 What I Do
 
-- Paid Ads: Facebook, Google, LinkedIn
+- Paid Ads (Meta, Google, LinkedIn)
 - Funnel Strategy & Optimization
 - CRM Automation (GoHighLevel, HubSpot)
 - Lead Generation Systems
-- Campaign Tracking & Reporting (GA4, Looker Studio)
-- AI-assisted marketing workflows
+- Campaign Tracking (GA4, Looker Studio)
+- AI-powered workflows
 
 ---
 
-## 🎤 Industry Experience
+## 🎤 Industry Focus
 
-### Comedy Clubs & Entertainment
+### Entertainment & Comedy Clubs
 - Managed marketing for **9 comedy clubs + 5 venues**
-- Handled **$120K+ monthly ad spend (Google + Meta)**
+- Handled **$100K+ monthly ad spend**
 - Focused on ticket sales, event promotion, and audience targeting
 
 ### Real Estate (US, AU, UK)
@@ -36,63 +32,45 @@ With 5+ years in digital marketing and experience supporting international clien
 ## 📊 Key Results
 
 - Managed over **$100,000+ monthly ad spend**
-- Improved lead conversion rates through funnel optimization
-- Built automated CRM workflows to reduce manual tasks and increase response speed
+- Built structured marketing systems across multiple venues
+- Improved lead conversion through funnel optimization
+- Automated follow-ups to increase efficiency and response speed
 
 ---
 
-## ⚙️ Systems I Build
+## ⚙️ My Systems
 
-### SeatFill System™ (Entertainment)
+### 🎤 SeatFill System™
+A complete marketing system designed to consistently sell out events.
 
-A structured marketing system designed to:
-- Fill event seats consistently
-- Retarget interested audiences
-- Automate follow-ups via CRM
-
-Includes:
-- Paid ads (Meta + Google)
-- Retargeting strategy
-- Email/SMS automation
-- Conversion tracking
+➡️ View System:  
+`/systems/seatfill-system.md`
 
 ---
 
-### CRM & Automation Systems
+## 📈 Case Studies
 
-- Lead nurturing workflows
-- Pipeline automation
-- Follow-up sequences
-- Integration with ads and landing pages
-
----
-
-## 🤖 AI Integration
-
-I use AI tools like ChatGPT and Gemini to:
-- Generate ad creatives and variations
-- Analyze campaign performance
-- Speed up reporting and insights
-- Improve workflow efficiency
+### 🎤 Comedy Club Marketing
+➡️ View Case Study:  
+`/case-studies/comedy-club-marketing.md`
 
 ---
 
-## 🧰 Tools & Platforms
+## 🧠 How I Work
 
-- Meta Ads Manager
-- Google Ads
-- Google Analytics (GA4)
-- Looker Studio
-- GoHighLevel
-- HubSpot
-- Zapier / Automation Tools
-- Canva
+I focus on **systems, not just tasks**.
+
+Instead of running random campaigns, I build:
+- Structured funnels
+- Retargeting systems
+- CRM automation
+- Data-driven optimization loops
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Contact
 
-📧 Email: gabayandominick@gmail.com  
+📧 gabayandominick@gmail.com  
 📱 WhatsApp: +639454391186  
 🔗 LinkedIn: https://www.linkedin.com/in/dominick-gabayan-032732199/  
 🌐 Portfolio: https://digivox.me/
